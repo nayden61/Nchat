@@ -11,7 +11,7 @@ export default function App() {
             projectID="eaabba16-9c43-4c40-ab75-386110970c94"
             userName="John"
             userSecret="John" 
-            renderChatFeed = {(props) => <ChatFeed {...props}/>}
+            renderChatFeed = {(chatAppState) => <ChatFeed {...chatAppState}/>}
             />
     )
 }

@@ -1,5 +1,7 @@
 export default function MessageForm() {
+
     return (
-        <div>Message Form</div>
+        <div>
+        Message Form</div>
     )
 }
