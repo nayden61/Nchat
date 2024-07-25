@@ -1,2 +1,0 @@
-# Nchat
-A chat application
